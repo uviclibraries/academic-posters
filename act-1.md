@@ -19,8 +19,6 @@ In this exercise, you will create an Academic Poster using PowerPoint 2016. If y
 
 2.  Click on the **New Slide** button under the home tab and then select the first poster template with three columns.
 3.  Confirm or change the size and orientation of your poster:
-    -   The easiest way to use a #BetterPoster format is to use and modify this [UVic branded Template](https://www.canva.com/design/DAFYzpd1yU8/olf9xuPArpgDg7WZmWMIQA/view?utm_content=DAFYzpd1yU8){:target="_blank"}.
-**-OR-**
     -   Click on the **Design** tab in the top ribbon, and then on the far right click on the **Slide Size** drop-down, and then **Custom Slide Size...**
 5.  Modify the template layout to suit the needs of your research project:
     -   Let’s start by changing the middle column from two blocks of text to one long block of text by clicking on the **View** tab on top of the ribbon, and then clicking on the **Slide Master** button.
